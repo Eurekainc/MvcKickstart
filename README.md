@@ -1,9 +1,3 @@
-# Seeking New Ownership!
-
-This project is no longer actively being maintained.  If you are interested in taking over as an owner, please [inquire within](https://github.com/jgeurts/MvcKickstart/issues/7)
-
-
-
 MvcKickstart
 ===========
 
@@ -38,7 +32,7 @@ Technology Choices
 ------------------
 * [Dapper](https://github.com/SamSaffron/dapper-dot-net) is the ORM of choice.
 * [Spruce](https://github.com/jgeurts/spruce) compliments Dapper
-* [CacheStack](https://github.com/jgeurts/cachestack) takes care of a lot of the caching throughout the project
+* [CacheStack](https://github.com/mvckickstart/cachestack) takes care of a lot of the caching throughout the project
 * Asset bundling and minification is handled by [cassette](http://getcassette.net/).  The built in asp.net bundler sucks in comparison.
 * This template uses [bootstrap](http://twitter.github.com/bootstrap/) for a UI starting point. Enjoy...
 * [Service Stack](http://www.servicestack.net/) is used throughout this project.  Service Stack is to asp.net projects as Resharper is to Visual Studio.
@@ -50,4 +44,4 @@ When you run that file, it will prompt you for the new name. Once the name is en
 
 Questions
 -----------------
-Please have a look at the [wiki](https://github.com/jgeurts/MvcKickstart/wiki). If you have a question about something that isn't in the wiki, please feel free to submit an [issue](https://github.com/jgeurts/MvcKickstart/issues) and I'll do my best to provide an answer.
+Please have a look at the [wiki](https://github.com/mvckickstart/MvcKickstart/wiki). If you have a question about something that isn't in the wiki, please feel free to submit an [issue](https://github.com/mvckickstart/MvcKickstart/issues) and I'll do my best to provide an answer.
